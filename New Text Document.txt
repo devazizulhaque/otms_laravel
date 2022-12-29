@@ -1,0 +1,29 @@
+Modules:
+
+* Category
+	* category name
+	* slug
+	* status	
+* Sub Category
+	* category id
+	* sub category name
+	* slug
+	* status	
+* Course
+	* category_id
+	* subcategory id
+	* trainer id (user id)
+	* title
+	* image
+	* price
+	* short description
+	* long description
+	* total hour
+	* start date
+	* end date
+	* slug
+	* status
+	* hit count
+	* apply count
+* Enroll
+	
